@@ -29,4 +29,15 @@ import and install for backend and ML
 -- Database =>  Successfully connected backend to database, no data uploaded yet
 -- Data collection => Half of the data has been collected including images and articles for website 
 
+================ till 2 - Evaluation===============
+
+-- Frontend => complete 
+-- Backend =>  Database connection success
+--> ML setup and implement
+
+to study via graph or ML model tracing ---- ![heatmap correlation graph](https://user-images.githubusercontent.com/97498357/187060483-161c4a20-030a-42bc-a9c6-2d01cdbeee07.png)
+
+============  till 3-Evaluation======================
+connecting frontend and backend with maping in froentend with database 
+fill connectivity of database with ML model and future planing of scalability 
 
